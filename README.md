@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sari-tech
+- 👋 Hi, I’m @sarita Rana
 - 👀 I’m interested in ...data analysis
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
